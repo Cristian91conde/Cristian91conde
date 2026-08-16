@@ -1,6 +1,6 @@
 # ¡Hola! Soy Cristian 👋
 
-Estudiante de 1º de Sistemas Microinformáticos y Redes (SMR).  
+Estudiante de 2º de Sistemas Microinformáticos y Redes (SMR).  
 Aprendiendo redes, sistemas y conceptos básicos de ciberseguridad.
 
 ## Tecnologías y habilidades que estoy aprendiendo
